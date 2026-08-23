@@ -1,6 +1,4 @@
-[
-    generate
-]
-    ignore = [
-        "cliff.toml"
+[generate]
+ignore = [
+    "cliff.toml"
 ]
