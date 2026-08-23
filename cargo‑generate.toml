@@ -1,0 +1,6 @@
+[
+    generate
+]
+    ignore = [
+        "cliff.toml"
+]
