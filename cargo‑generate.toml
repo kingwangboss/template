@@ -1,4 +1,0 @@
-[generate]
-ignore = [
-    "cliff.toml"
-]
